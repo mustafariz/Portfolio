@@ -1,5 +1,7 @@
+
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
+import Skills from './components/Skills';
 
 
 
@@ -8,6 +10,8 @@ import Navbar from './components/Navbar';
     <>
       <Navbar />
       <Hero  />
+      <Skills />
+       
     </>
  
  
